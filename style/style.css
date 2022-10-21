@@ -1,0 +1,65 @@
+body{
+    background: -webkit-linear-gradient(90deg, #686869,#797979,#6b84ff);
+    background: linear-gradient(90deg, #343c68,#9967a7,#db92bd);
+}
+
+
+
+.html{
+    background-color: #2AA5A0;
+    background-image: linear-gradient(90deg, #000000, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Monoton', cursive;
+    
+}
+.html-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: #2AA5A0;
+    background-image: linear-gradient(90deg, #000000, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.logo{
+    display: block;
+    margin: 30px auto;
+    border-radius: 20px;
+    border: 10px linear-gradient(90deg, #343c68,#9967a7,#db92bd);
+
+    
+}
+.video{
+    display: block;
+    margin: 0px auto;
+    
+
+}
+.list{
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    
+    background-color: #2AA5A0;
+    background-image: linear-gradient(90deg, #000000, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    list-style-position: inside;
+    text-align:center;
+    display: block;
+}
+.link{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #2AA5A0;
+    background-image: linear-gradient(90deg, #1506e9, #030303);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
